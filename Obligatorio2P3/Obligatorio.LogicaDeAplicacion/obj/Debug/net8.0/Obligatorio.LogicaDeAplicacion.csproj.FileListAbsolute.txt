@@ -1,0 +1,70 @@
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.deps.json
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.runtimeconfig.json
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligato.D5E17426.Up2Date
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\refint\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.genruntimeconfig.cache
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\ref\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligato.D5E17426.Up2Date
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\refint\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\ref\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligato.D5E17426.Up2Date
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\refint\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\ref\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\refint\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.deps.json
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.runtimeconfig.json
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligato.D5E17426.Up2Date
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\Obligatorio.LogicaDeAplicacion.genruntimeconfig.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaDeAplicacion\obj\Debug\net8.0\ref\Obligatorio.LogicaDeAplicacion.dll

@@ -1,0 +1,1588 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\controllers\\auditoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\controllers\\auditoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\iauditoriacu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\iauditoriacu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\auditoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\auditoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\interfacesrepositorio\\irepositoriotipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\interfacesrepositorio\\irepositoriotipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\casosdeuso\\auditoria\\auditoriacu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\casosdeuso\\auditoria\\auditoriacu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\interfacesrepositorio\\irepositorioauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\interfacesrepositorio\\irepositorioauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\repositorios\\sqlrepositorioauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\repositorios\\sqlrepositorioauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251127153646_UpdateAuditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Obligatorio.AccesoDatos\\Migrations\\20251127153646_UpdateAuditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\entityframework\\oblcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\entityframework\\oblcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\pagolistadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\pagolistadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\crearpagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\crearpagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\repositorios\\sqlrepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\repositorios\\sqlrepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\casosdeuso\\pago\\serviciopagocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\casosdeuso\\pago\\serviciopagocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\repositorios\\sqlrepositoriotipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\repositorios\\sqlrepositoriotipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\repositorios\\sqlrepositoriopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\repositorios\\sqlrepositoriopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\interfacesrepositorio\\irepositoriopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\interfacesrepositorio\\irepositoriopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\iserviciopagocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\iserviciopagocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\interfacesrepositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\interfacesrepositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\interfacesrepositorio\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\interfacesrepositorio\\irepositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\entityframework\\repositoriosef\\repositoriousuarioef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\entityframework\\repositoriosef\\repositoriousuarioef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\mappers\\pagomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\mappers\\pagomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\iobtenerusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\iobtenerusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\obligatorio.webapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\obligatorio.webapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\casosdeuso\\usuarios\\obtenerusuariocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\casosdeuso\\usuarios\\obtenerusuariocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\casosdeuso\\usuarios\\crearusuariocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\casosdeuso\\usuarios\\crearusuariocu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\tipogastodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\tipogastodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\tipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\tipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\usuarioconpagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\usuarioconpagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\equipodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\equipodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\equipoconusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\equipoconusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\resetpasswordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\resetpasswordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\servicios\\restablecercontrasenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\servicios\\restablecercontrasenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\servicios\\iserviciogeneradordecontrasenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\servicios\\iserviciogeneradordecontrasenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\unico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\unico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\views\\tipogasto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\views\\tipogasto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\views\\pago\\crearpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\views\\pago\\crearpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\views\\pago\\pagoporusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\views\\pago\\pagoporusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\oblcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\oblcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251127023234_nuevamigracionparalistapagosenusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251127023234_nuevamigracionparalistapagosenusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251127023234_nuevamigracionparalistapagosenusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251127023234_nuevamigracionparalistapagosenusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\iobtenerpagosporusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\iobtenerpagosporusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251126192858_migracionfinal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251126192858_migracionfinal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251126191432_addactivototipogasto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251126191432_addactivototipogasto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251126182852_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251126182852_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\dtos\\crearusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\dtos\\crearusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\casosdeuso\\usuarios\\logincu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\casosdeuso\\usuarios\\logincu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\interfacesdecasodeuso\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\entidades\\recurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\entidades\\recurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251020132442_nuevamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251020132442_nuevamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20250922210717_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20250922210717_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251126191432_addactivototipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251126191432_addactivototipogasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251126182852_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251126182852_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251018202828_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251018202828_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251020183157_nueva2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251020183157_nueva2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\obligatorio.webapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\obligatorio.webapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\repositorios\\sqlrepositorioequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\repositorios\\sqlrepositorioequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251020183157_nueva2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251020183157_nueva2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251020132442_nuevamigracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251020132442_nuevamigracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251018202828_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251018202828_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\webapi\\security\\manejadorjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A725CF6-78E5-42D7-4152-DD115C320B85}|WebApi\\Obligatorio.WebApp2.csproj|solutionrelative:webapi\\security\\manejadorjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\obligatorio.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\obligatorio.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicadeaplicacion\\obligatorio.logicadeaplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE7718B0-B7C0-4854-8AC2-5B859A00A4E8}|Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj|solutionrelative:obligatorio.logicadeaplicacion\\obligatorio.logicadeaplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.logicanegocio\\obligatorio.logicanegocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B8E0407-463D-A154-0634-299150A798BC}|Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj|solutionrelative:obligatorio.logicanegocio\\obligatorio.logicanegocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Unico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Excepciones\\UsuarioException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251126225251_ahorasiupdateusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251126225251_ahorasiupdateusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251126224812_actualizacionusuariolisatapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251126224812_actualizacionusuariolisatapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio2p3\\obligatorio.accesodatos\\migrations\\20251126192858_migracionfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D09895-655D-A811-92FC-1DFF4887508D}|Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj|solutionrelative:obligatorio.accesodatos\\migrations\\20251126192858_migracionfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Pago.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Pago.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Pago.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Pago.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:12:19.768Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuditoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\AuditoriaController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuditoriaController.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\AuditoriaController.cs*",
+              "RelativeToolTip": "WebApi\\Controllers\\AuditoriaController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:52:01.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuditoriaCu.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IAuditoriaCu.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IAuditoriaCu.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IAuditoriaCu.cs*",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IAuditoriaCu.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:44:59.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditoriaCU.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Auditoria\\AuditoriaCU.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Auditoria\\AuditoriaCU.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Auditoria\\AuditoriaCU.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Auditoria\\AuditoriaCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:44:37.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositorioAuditoria.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioAuditoria.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioAuditoria.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioAuditoria.cs*",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioAuditoria.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:41:32.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\AuditoriaDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\AuditoriaDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\AuditoriaDTO.cs*",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\AuditoriaDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:39:05.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251127153646_UpdateAuditoria.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251127153646_UpdateAuditoria.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251127153646_UpdateAuditoria.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251127153646_UpdateAuditoria.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251127153646_UpdateAuditoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:36:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:40:56.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TipoGastoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\TipoGastoDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\TipoGastoDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\TipoGastoDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\TipoGastoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:27:28.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrearPagoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\CrearPagoDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\CrearPagoDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\CrearPagoDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\CrearPagoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:22:03.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EquipoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:05:18.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EquipoConUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\EquipoConUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\EquipoConUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\EquipoConUsuarioDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\EquipoConUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:04:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:54:13.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EquipoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\EquipoDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\EquipoDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\EquipoDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\EquipoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:53:54.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ResetPassword.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\ResetPassword.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\ResetPassword.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\ResetPassword.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\ResetPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T04:53:11.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ResetPasswordResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\ResetPasswordResponseDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\ResetPasswordResponseDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\ResetPasswordResponseDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\ResetPasswordResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T04:52:09.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IServicioGeneradorDeContrasenia.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Servicios\\IServicioGeneradorDeContrasenia.cs",
+              "RelativeDocumentMoniker": "WebApi\\Servicios\\IServicioGeneradorDeContrasenia.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Servicios\\IServicioGeneradorDeContrasenia.cs",
+              "RelativeToolTip": "WebApi\\Servicios\\IServicioGeneradorDeContrasenia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T04:25:35.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RestablecerContrasenia.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Servicios\\RestablecerContrasenia.cs",
+              "RelativeDocumentMoniker": "WebApi\\Servicios\\RestablecerContrasenia.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Servicios\\RestablecerContrasenia.cs",
+              "RelativeToolTip": "WebApi\\Servicios\\RestablecerContrasenia.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T04:24:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Views\\TipoGasto\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\TipoGasto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Views\\TipoGasto\\Index.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\TipoGasto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T03:50:52.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T03:26:22.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CrearPago.cshtml",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Views\\Pago\\CrearPago.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\Pago\\CrearPago.cshtml",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Views\\Pago\\CrearPago.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\Pago\\CrearPago.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T03:17:39.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PagoPorUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Views\\Pago\\PagoPorUsuario.cshtml",
+              "RelativeDocumentMoniker": "WebApi\\Views\\Pago\\PagoPorUsuario.cshtml",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Views\\Pago\\PagoPorUsuario.cshtml",
+              "RelativeToolTip": "WebApi\\Views\\Pago\\PagoPorUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T02:52:05.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20251127023234_NuevaMigracionParaListaPagosEnUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251127023234_NuevaMigracionParaListaPagosEnUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251127023234_NuevaMigracionParaListaPagosEnUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251127023234_NuevaMigracionParaListaPagosEnUsuario.Designer.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251127023234_NuevaMigracionParaListaPagosEnUsuario.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwIoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:35:45.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20251127023234_NuevaMigracionParaListaPagosEnUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251127023234_NuevaMigracionParaListaPagosEnUsuario.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251127023234_NuevaMigracionParaListaPagosEnUsuario.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251127023234_NuevaMigracionParaListaPagosEnUsuario.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251127023234_NuevaMigracionParaListaPagosEnUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:32:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PagoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\Mappers\\PagoMapper.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\Mappers\\PagoMapper.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\Mappers\\PagoMapper.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\Mappers\\PagoMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:23:01.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IServicioPagoCU.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IServicioPagoCU.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IServicioPagoCU.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IServicioPagoCU.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IServicioPagoCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:12:46.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicioPagoCU.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Pago\\ServicioPagoCU.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Pago\\ServicioPagoCU.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Pago\\ServicioPagoCU.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Pago\\ServicioPagoCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:11:30.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\PagoDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\PagoDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\PagoDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\PagoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:00:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UsuarioConPagoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\UsuarioConPagoDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\UsuarioConPagoDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\UsuarioConPagoDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\UsuarioConPagoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:58:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20251126225251_AhorasiUpdateUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126225251_AhorasiUpdateUsuario.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251126225251_AhorasiUpdateUsuario.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126225251_AhorasiUpdateUsuario.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251126225251_AhorasiUpdateUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:52:51.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20251126224812_ActualizacionUsuarioLisataPago.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126224812_ActualizacionUsuarioLisataPago.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251126224812_ActualizacionUsuarioLisataPago.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126224812_ActualizacionUsuarioLisataPago.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251126224812_ActualizacionUsuarioLisataPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:48:12.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositorioTipoGasto.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioTipoGasto.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioTipoGasto.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioTipoGasto.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioTipoGasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:06:34.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20251126192858_MigracionFinal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126192858_MigracionFinal.Designer.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251126192858_MigracionFinal.Designer.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126192858_MigracionFinal.Designer.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251126192858_MigracionFinal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:59:26.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20251126191432_AddActivoToTipoGasto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126191432_AddActivoToTipoGasto.Designer.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251126191432_AddActivoToTipoGasto.Designer.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126191432_AddActivoToTipoGasto.Designer.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251126191432_AddActivoToTipoGasto.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:59:12.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20251126182852_InitialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126182852_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251126182852_InitialMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126182852_InitialMigration.Designer.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251126182852_InitialMigration.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:58:42.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-26T19:51:42.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20251126192858_MigracionFinal.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126192858_MigracionFinal.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251126192858_MigracionFinal.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126192858_MigracionFinal.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251126192858_MigracionFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:28:58.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20251126191432_AddActivoToTipoGasto.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126191432_AddActivoToTipoGasto.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251126191432_AddActivoToTipoGasto.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126191432_AddActivoToTipoGasto.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251126191432_AddActivoToTipoGasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:14:32.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20251126182852_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126182852_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251126182852_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251126182852_InitialMigration.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251126182852_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:28:52.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Obligatorio.WebApp2",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Obligatorio.WebApp2.csproj",
+              "RelativeDocumentMoniker": "WebApi\\Obligatorio.WebApp2.csproj",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Obligatorio.WebApp2.csproj",
+              "RelativeToolTip": "WebApi\\Obligatorio.WebApp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T17:57:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20251020183157_Nueva2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251020183157_Nueva2.Designer.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251020183157_Nueva2.Designer.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251020183157_Nueva2.Designer.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251020183157_Nueva2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:08:29.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250922210717_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20250922210717_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20250922210717_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20250922210717_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20250922210717_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:08:20.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OblContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\OblContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\OblContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\OblContextModelSnapshot.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\OblContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:08:04.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20251020132442_NuevaMigracion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251020132442_NuevaMigracion.Designer.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251020132442_NuevaMigracion.Designer.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251020132442_NuevaMigracion.Designer.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251020132442_NuevaMigracion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:07:59.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20251018202828_Inicial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251018202828_Inicial.Designer.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251018202828_Inicial.Designer.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251018202828_Inicial.Designer.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251018202828_Inicial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:07:52.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLRepositorioTipoGasto.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioTipoGasto.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioTipoGasto.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioTipoGasto.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioTipoGasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:56:31.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLRepositorioPago.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioPago.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioPago.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioPago.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:56:00.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SQLRepositorioEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioEquipo.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioEquipo.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioEquipo.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioEquipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:55:44.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auditoria.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:54:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TipoGasto.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:54:29.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Pago.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\Pago.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Pago.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:54:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\MetodoPago.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\MetodoPago.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\MetodoPago.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\MetodoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:54:24.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Recurrente.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:54:10.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Unico.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Unico.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\Unico.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Unico.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\Unico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:54:17.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLRepositorioAuditoria.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioAuditoria.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioAuditoria.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioAuditoria.cs*",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioAuditoria.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:53:44.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLRepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioUsuario.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Repositorios\\SQLRepositorioUsuario.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwGgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:47:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IObtenerPagosPorUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IObtenerPagosPorUsuario.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IObtenerPagosPorUsuario.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IObtenerPagosPorUsuario.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IObtenerPagosPorUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:27:20.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:23:39.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Obligatorio.LogicaDeAplicacion.csproj",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\Obligatorio.LogicaDeAplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T15:57:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Obligatorio.AccesoDatos.csproj",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Obligatorio.AccesoDatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T15:57:28.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Rol.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Entidades\\Rol.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Entidades\\Rol.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Entidades\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:11:05.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:02:34.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T04:00:03.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADgv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:38:18.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ManejadorJWT.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Security\\ManejadorJWT.cs",
+              "RelativeDocumentMoniker": "WebApi\\Security\\ManejadorJWT.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Security\\ManejadorJWT.cs",
+              "RelativeToolTip": "WebApi\\Security\\ManejadorJWT.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:09:22.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Obligatorio.WebApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Obligatorio.WebApp2.csproj",
+              "RelativeDocumentMoniker": "WebApi\\Obligatorio.WebApp2.csproj",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Obligatorio.WebApp2.csproj",
+              "RelativeToolTip": "WebApi\\Obligatorio.WebApp2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T00:44:45.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GastoController.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\GastoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\GastoController.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\GastoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\GastoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:48:14.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:48:06.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PagoController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAArwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:47:49.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T00:44:49.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRepositorioPago.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:28:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:28:27.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Obligatorio.LogicaNegocio.csproj",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj",
+              "RelativeToolTip": "Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T20:05:54.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20251018202828_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251018202828_Inicial.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251018202828_Inicial.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251018202828_Inicial.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251018202828_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:56:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepositorioUsuarioEF.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\EntityFramework\\RepositoriosEF\\RepositorioUsuarioEF.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\EntityFramework\\RepositoriosEF\\RepositorioUsuarioEF.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\EntityFramework\\RepositoriosEF\\RepositorioUsuarioEF.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\EntityFramework\\RepositoriosEF\\RepositorioUsuarioEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:24:52.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OblContext.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\EntityFramework\\OblContext.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\EntityFramework\\OblContext.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\EntityFramework\\OblContext.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\EntityFramework\\OblContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwC8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:40:59.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "TipoGasto.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\TipoGasto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:07:31.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Usuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:39:25.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Rol.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Rol.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Rol.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Rol.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:20:11.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CrearUsuarioCU.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\CrearUsuarioCU.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\CrearUsuarioCU.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\CrearUsuarioCU.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\CrearUsuarioCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:45:24.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UsuarioMapper.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\Mappers\\UsuarioMapper.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\Mappers\\UsuarioMapper.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\Mappers\\UsuarioMapper.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\Mappers\\UsuarioMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:41:13.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:22:17.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ObtenerUsuarioCU.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\ObtenerUsuarioCU.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\ObtenerUsuarioCU.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\ObtenerUsuarioCU.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\ObtenerUsuarioCU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:16:37.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginCU.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\LoginCU.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\LoginCU.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\LoginCU.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\CasosDeUso\\Usuarios\\LoginCU.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:30:26.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CrearUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\CrearUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\CrearUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\CrearUsuarioDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\CrearUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:40:38.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IRepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:18:32.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IObtenerUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IObtenerUsuarios.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IObtenerUsuarios.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IObtenerUsuarios.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\IObtenerUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:18:55.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20251020183157_Nueva2.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251020183157_Nueva2.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251020183157_Nueva2.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251020183157_Nueva2.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251020183157_Nueva2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:31:57.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PagoListadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\PagoListadoDTO.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\DTOs\\PagoListadoDTO.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\DTOs\\PagoListadoDTO.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\DTOs\\PagoListadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:22:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Recurrente.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Recurrente.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:12:40.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Unico.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Unico.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Unico.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Unico.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Unico.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:12:23.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "IRepositorioPago.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorioPago.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:22:59.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:27:03.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\ILogin.cs",
+              "RelativeDocumentMoniker": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\ILogin.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\ILogin.cs",
+              "RelativeToolTip": "Obligatorio.LogicaDeAplicacion\\InterfacesDeCasoDeUso\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:39:16.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UsuarioException.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Excepciones\\UsuarioException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Excepciones\\UsuarioException.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Excepciones\\UsuarioException.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Excepciones\\UsuarioException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:24:32.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20251020132442_NuevaMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251020132442_NuevaMigracion.cs",
+              "RelativeDocumentMoniker": "Obligatorio.AccesoDatos\\Migrations\\20251020132442_NuevaMigracion.cs",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio2P3\\Obligatorio.AccesoDatos\\Migrations\\20251020132442_NuevaMigracion.cs",
+              "RelativeToolTip": "Obligatorio.AccesoDatos\\Migrations\\20251020132442_NuevaMigracion.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:24:43.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Auditoria.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Auditoria.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:51:56.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs",
+              "ToolTip": "C:\\Users\\agilc\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\E-237287-0 (2)\\ObligatorioEntrega\\ObligatorioFINAL\\Obligatorio\\Obligatorio.WebApp (2)\\Obligatorio.WebApp\\Obligatorio.WebApp\\Obligatorio.LogicaNegocio\\Obligatorio.LogicaNegocio\\Entidades\\Equipo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:36:57.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

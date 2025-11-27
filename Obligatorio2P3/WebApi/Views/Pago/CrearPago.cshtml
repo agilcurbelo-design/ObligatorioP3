@@ -1,0 +1,61 @@
+﻿@model Obligatorio.LogicaDeAplicacion.DTOs.CrearPagoDTO
+@{
+    ViewData["Title"] = "Crear Pago";
+    var tipos = (IEnumerable<Obligatorio.LogicaNegocio.Entidades.TipoGasto>)ViewBag.TiposGasto;
+}
+
+<h2>Registrar Pago</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Tipo de gasto</label>
+        <select asp-for="TipoGastoId" class="form-control"
+                asp-items="@(new SelectList(tipos, "Id", "Nombre"))">
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Monto</label>
+        <input asp-for="Monto" class="form-control" type="number" step="0.01" />
+    </div>
+
+    <div class="form-group">
+        <label>Fecha</label>
+        <input asp-for="Fecha" class="form-control" type="date" />
+    </div>
+
+    <div class="form-group">
+        <label>Descripción</label>
+        <input asp-for="Descripcion" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Tipo de pago</label><br />
+        <input type="radio" asp-for="EsRecurrente" value="false" checked onchange="toggleRecurrente()" /> Único
+        <input type="radio" asp-for="EsRecurrente" value="true" onchange="toggleRecurrente()" /> Recurrente
+    </div>
+
+    <div id="recurrenteFields" style="display:none;">
+        <div class="form-group">
+            <label>Periodo (meses)</label>
+            <input asp-for="PeriodoMeses" class="form-control" type="number" min="1" />
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Volver</a>
+</form>
+
+@section Scripts {
+<script>
+function toggleRecurrente() {
+    var radios = document.getElementsByName('EsRecurrente');
+    var isRecurrente = false;
+    for (var i = 0; i < radios.length; i++) {
+        if (radios[i].checked && radios[i].value === 'true') { isRecurrente = true; break; }
+    }
+    document.getElementById('recurrenteFields').style.display = isRecurrente ? 'block' : 'none';
+}
+document.addEventListener('DOMContentLoaded', toggleRecurrente);
+</script>
+}

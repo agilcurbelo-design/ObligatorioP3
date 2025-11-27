@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Obligatorio.WebApp2</name>
+    </assembly>
+    <members>
+        <member name="M:Obligatorio.WebApp2.Controllers.EquiposController.GetEquiposConPagosMayores(System.Decimal,System.Boolean)">
+            <summary>
+            Obtiene los equipos cuyos empleados realizaron pagos individuales mayores al monto indicado.
+            </summary>
+            <param name="monto">Monto mínimo (decimal)</param>
+            <param name="includeUsers">Incluir lista de usuarios por equipo (opcional)</param>
+        </member>
+        <member name="M:Obligatorio.WebApp2.Controllers.UsuarioApiController.ResetPassword(Obligatorio.LogicaDeAplicacion.DTOs.ResetPasswordRequestDTO)">
+            <summary>
+            RF3 - Resetear contraseña de un usuario (Solo Administradores)
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WebApp.DTOs.UsuarioDTO>
+@{
+    ViewData["Title"] = "Usuarios con pagos superiores";
+}
+
+<h2>Usuarios con pagos únicos mayores al monto dado</h2>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-info">@TempData["Mensaje"]</div>
+}
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Email</th>
+            <th>Rol</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var usuario in Model)
+        {
+            <tr>
+                <td>@usuario.Nombre</td>
+                <td>@usuario.Apellido</td>
+                <td>@usuario.Email</td>
+                <td>@usuario.Rol</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No se encontraron usuarios con pagos superiores al monto especificado.</p>
+}

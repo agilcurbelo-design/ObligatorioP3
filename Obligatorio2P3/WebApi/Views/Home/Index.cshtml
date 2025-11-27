@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Obligatorio.LogicaDeAplicacion.DTOs.UsuarioDTO>
+
+
+@{
+
+
+    <h2>Usuarios</h2>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var usuario in Model)
+            {
+                <tr>
+                    <td>@usuario.Nombre</td>
+                    <td>@usuario.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}

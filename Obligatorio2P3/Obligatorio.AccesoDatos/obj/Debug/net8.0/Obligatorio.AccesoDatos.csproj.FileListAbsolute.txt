@@ -1,0 +1,74 @@
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.deps.json
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.runtimeconfig.json
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.AssemblyInfo.cs
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligato.690ECD6E.Up2Date
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\refint\Obligatorio.AccesoDatos.dll
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.genruntimeconfig.cache
+C:\Users\agilc\OneDrive\Escritorio\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\ref\Obligatorio.AccesoDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligato.690ECD6E.Up2Date
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\refint\Obligatorio.AccesoDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\ref\Obligatorio.AccesoDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.deps.json
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligato.690ECD6E.Up2Date
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\refint\Obligatorio.AccesoDatos.dll
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Obligatorio.WebApp (2)\Obligatorio.WebApp\Obligatorio.WebApp\Obligatorio.AccesoDatos\obj\Debug\net8.0\ref\Obligatorio.AccesoDatos.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\refint\Obligatorio.AccesoDatos.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.deps.json
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.runtimeconfig.json
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.AccesoDatos.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.AssemblyInfo.cs
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligato.690ECD6E.Up2Date
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\Obligatorio.AccesoDatos.genruntimeconfig.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.AccesoDatos\obj\Debug\net8.0\ref\Obligatorio.AccesoDatos.dll

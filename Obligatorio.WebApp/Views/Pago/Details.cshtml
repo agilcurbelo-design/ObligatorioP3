@@ -1,0 +1,22 @@
+﻿@model WebApp.DTOs.PagoListadoDTO
+@{
+    ViewData["Title"] = "Detalles del Pago";
+}
+
+<h2>Detalles del Pago</h2>
+
+<dl class="row">
+    <dt class="col-sm-2">Descripción</dt>
+    <dd class="col-sm-10">@Model.Descripcion</dd>
+
+    <dt class="col-sm-2">Monto</dt>
+    <dd class="col-sm-10">@Model.Monto</dd>
+
+    <dt class="col-sm-2">Tipo de gasto</dt>
+    <dd class="col-sm-10">@Model.TipoGasto</dd>
+
+    <dt class="col-sm-2">Usuario</dt>
+    <dd class="col-sm-10">@Model.Usuario</dd>
+</dl>
+
+<a asp-action="" class="btn btn-secondary">Volver</a>

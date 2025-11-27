@@ -1,0 +1,14 @@
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\bin\Debug\net8.0\Obligatorio.LogicaNegocio.deps.json
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\bin\Debug\net8.0\Obligatorio.LogicaNegocio.runtimeconfig.json
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\bin\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\bin\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\Obligatorio.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\Obligatorio.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\Obligatorio.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\Obligatorio.LogicaNegocio.AssemblyInfo.cs
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\Obligatorio.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\Obligatorio.LogicaNegocio.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\refint\Obligatorio.LogicaNegocio.dll
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\Obligatorio.LogicaNegocio.pdb
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\Obligatorio.LogicaNegocio.genruntimeconfig.cache
+C:\Users\agilc\OneDrive\Escritorio\ObligatorioEntregaFinal\Obligatorio2P3\Obligatorio.LogicaNegocio\obj\Debug\net8.0\ref\Obligatorio.LogicaNegocio.dll

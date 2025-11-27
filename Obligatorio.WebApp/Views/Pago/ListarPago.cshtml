@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Obligatorio.WebApp2.Controllers.PagoViewModel>
+
+@{
+    ViewData["Title"] = "Mis pagos";
+}
+
+<h2>Mis pagos</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.Error))
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Nuevo pago</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Monto</th>
+            <th>Fecha</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Monto.ToString("C")</td>
+                <td>@p.Fecha.ToString("yyyy-MM-dd")</td>
+                <td>@p.TipoGasto</td>
+                <td>@p.Descripcion</td>
+                <td>
+                    <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@p.Id">Ver</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
