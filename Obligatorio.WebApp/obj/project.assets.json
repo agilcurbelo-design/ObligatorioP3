@@ -325,11 +325,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agilc\\OneDrive\\Documentos\\Dev\\Ort\\ObligatorioP3\\Obligatorio.WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\agilc\\OneDrive\\Documentos\\Dev\\Ort\\ObligatorioP3\\Obligatorio.WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\agilc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agilc\\OneDrive\\Documentos\\Dev\\Ort\\ObligatorioP3\\Obligatorio.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

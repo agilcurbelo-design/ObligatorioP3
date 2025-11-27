@@ -1,1 +1,62 @@
-﻿
+﻿@{
+    ViewData["Title"] = "Crear Pago";
+}
+
+<h2>Crear Pago</h2>
+
+<form asp-action="CrearPago" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="mb-3">
+        <label for="usuarioId" class="form-label">Usuario Id</label>
+        <input id="usuarioId" name="UsuarioId" type="number" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="tipoGastoId" class="form-label">Tipo de Gasto Id</label>
+        <input id="tipoGastoId" name="TipoGastoId" type="number" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="monto" class="form-label">Monto</label>
+        <input id="monto" name="Monto" type="number" step="0.01" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="fecha" class="form-label">Fecha (opcional)</label>
+        <input id="fecha" name="Fecha" type="datetime-local" class="form-control" />
+        <small class="form-text text-muted">Si lo dejas vacío, se usará la fecha actual en el servidor.</small>
+    </div>
+
+    <div class="mb-3">
+        <label for="metodoPago" class="form-label">Método de Pago</label>
+        <select id="metodoPago" name="MetodoPago" class="form-select" required>
+            <option value="">-- Seleccione --</option>
+            <option value="EFECTIVO">EFECTIVO</option>
+            <option value="CREDITO">CREDITO</option>
+            <option value="DEBITO">DEBITO</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label for="descripcion" class="form-label">Descripción</label>
+        <input id="descripcion" name="Descripcion" class="form-control" />
+    </div>
+
+    <div class="form-check mb-3">
+        <input id="esRecurrente" name="EsRecurrente" type="checkbox" class="form-check-input" />
+        <label for="esRecurrente" class="form-check-label">Es recurrente</label>
+    </div>
+
+    <div class="mb-3">
+        <label for="periodoMeses" class="form-label">Periodo (meses) — si es recurrente</label>
+        <input id="periodoMeses" name="PeriodoMeses" type="number" min="1" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Crear pago</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancelar</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,4 +1,5 @@
-﻿using Obligatorio.LogicaNegocio.Entidades;
+﻿using Microsoft.EntityFrameworkCore;
+using Obligatorio.LogicaNegocio.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,6 @@ namespace Obligatorio.LogicaNegocio.InterfacesRepositorio
 
 	public interface IRepositorioPago : IRepositorio<Pago>
     {
-		Task<IEnumerable<Pago>> GetPagosPorUsuarioAsync(int usuarioId);
 		public Pago GetById(int id);
         public Pago Create(Pago pago);
         public IEnumerable<Pago> GetPagoPorMes(int mes, int anio);
@@ -20,6 +20,8 @@ namespace Obligatorio.LogicaNegocio.InterfacesRepositorio
 		Task UnitOfWorkSaveChangesAsync();
 		Task<Pago> ObtenerPorIdAsync(int id);
 
+		
+	
 
 	}
 }

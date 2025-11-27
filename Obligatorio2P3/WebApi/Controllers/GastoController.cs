@@ -75,13 +75,13 @@ namespace Obligatorio.WebApp2.Controllers
 			return RedirectToAction("Index");
 		}
 
-		private void RegistrarAuditoria(string accion, int tipoGastoId)
+		private void RegistrarAuditoria(string Opereacion, int tipoGastoId)
 		{
 			var usuarioId = int.Parse(HttpContext.Session.GetString("UsuarioId"));
 			_context.Auditorias.Add(new Auditoria
 			{
-				Accion = accion,
-				Fecha = DateTime.Now,
+				TipoOperacion = Opereacion,
+				FechaOperacion = DateTime.Now,
 				UsuarioId = usuarioId
 			});
 			_context.SaveChanges();

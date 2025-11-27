@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Obligatorio.WebApp2.Controllers.PagoViewModel>
+﻿@model IEnumerable<WebApp.DTOs.PagoDTO>
 
 @{
     ViewData["Title"] = "Mis pagos";
@@ -33,7 +33,7 @@
                 <td>@p.Id</td>
                 <td>@p.Monto.ToString("C")</td>
                 <td>@p.Fecha.ToString("yyyy-MM-dd")</td>
-                <td>@p.TipoGasto</td>
+                <td>@p.TipoGastoNombre</td>
                 <td>@p.Descripcion</td>
                 <td>
                     <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@p.Id">Ver</a>

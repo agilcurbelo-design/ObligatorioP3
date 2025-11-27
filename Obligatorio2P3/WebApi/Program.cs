@@ -3,12 +3,12 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi;
-using Microsoft.OpenApi;
 using Obligatorio.AccesoDatos;
-using Obligatorio.AccesoDatos.EntityFramework;
 using Obligatorio.AccesoDatos.Repositorios;
 using Obligatorio.LogicaDeAplicacion.CasosDeUso.Usuarios;
+using Obligatorio.LogicaDeAplicacion.CasosDeUso.Auditoria;
 using Obligatorio.LogicaDeAplicacion.InterfacesDeCasoDeUso;
+using Obligatorio.LogicaNegocio.Entidades;
 using Obligatorio.LogicaNegocio.InterfacesRepositorio;
 using Obligatorio.WebApi.Services;
 using Swashbuckle.AspNetCore.Filters;
@@ -28,9 +28,16 @@ builder.Services.AddCors(options =>
 	});
 });
 
-builder.Services.AddControllers();
+// Controllers + JSON options
+builder.Services.AddControllers()
+	.AddJsonOptions(opts =>
+	{
+		opts.JsonSerializerOptions.Converters.Add(new System.Text.Json.Serialization.JsonStringEnumConverter());
+	});
+
 builder.Services.AddEndpointsApiExplorer();
 
+// Swagger / OpenAPI
 var rutaArchivo = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Obligatorio.WebApp2.xml");
 builder.Services.AddSwaggerGen(opciones =>
 {
@@ -59,13 +66,16 @@ builder.Services.AddSwaggerGen(opciones =>
 	}
 });
 
-builder.Services.AddControllers()
-	.AddJsonOptions(opts =>
-	{
-		opts.JsonSerializerOptions.Converters.Add(new System.Text.Json.Serialization.JsonStringEnumConverter());
-	});
+// Session (parece que la app usa Session)
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+	options.Cookie.HttpOnly = true;
+	options.Cookie.IsEssential = true;
+	options.IdleTimeout = TimeSpan.FromHours(2);
+});
 
-// JWT
+// JWT Authentication
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opciones =>
 {
 	opciones.TokenValidationParameters = new TokenValidationParameters
@@ -88,12 +98,17 @@ builder.Services.AddDbContext<OblContext>(options =>
 // Repositorios y casos de uso
 builder.Services.AddScoped<IRepositorioUsuario, SQLRepositorioUsuario>();
 builder.Services.AddScoped<IRepositorioPago, SQLRepositorioPago>();
-builder.Services.AddScoped<IRepositorioTipoGasto, SQLRepositorioTipoGasto>(); // <-- agregado
+builder.Services.AddScoped<IRepositorioTipoGasto, SQLRepositorioTipoGasto>();
 builder.Services.AddScoped<ILogin, LoginCU>();
 builder.Services.AddScoped<IServicioPagoCU, ServicioPagoCU>();
 builder.Services.AddScoped<IPasswordGeneratorService, PasswordGeneratorService>();
+builder.Services.AddScoped<IRepositorioAuditoria, SQLRepositorioAuditoria>();
 
-// Agregá aquí otros repositorios que uses
+// Registro de IAuditoriaCU: ajustá la implementación concreta si tu clase tiene otro nombre o namespace
+// Ejemplo: builder.Services.AddScoped<IAuditoriaCU, AuditoriaCU>();
+builder.Services.AddScoped<IAuditoriaCU, AuditoriaCU>();
+
+// Agregá aquí otros repositorios o casos de uso que uses
 // builder.Services.AddScoped<IRepositorioOtro, SQLRepositorioOtro>();
 
 // Authorization
@@ -120,15 +135,14 @@ app.UseHttpsRedirection();
 
 app.UseRouting();
 
-// Aplicar CORS antes de auth
+// Aplicar CORS antes de auth si querés permitir llamadas desde la webapp
 app.UseCors("AllowWebApp");
+
+// Session debe ir antes de Authentication/Authorization si la usás para almacenar datos de sesión
+app.UseSession();
 
 app.UseAuthentication();
 app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
 
 app.MapControllers();
 

@@ -18,7 +18,7 @@ namespace Obligatorio.LogicaDeAplicacion.Mappers
 				Id = p.Id,
 				Monto = p.Monto,
 				Fecha = p.Fecha,
-				TipoGastoId = p.TipoGastoId
+				TipoGastoNombre = p.TipoGasto.Nombre,
 			};
 		}
 	}

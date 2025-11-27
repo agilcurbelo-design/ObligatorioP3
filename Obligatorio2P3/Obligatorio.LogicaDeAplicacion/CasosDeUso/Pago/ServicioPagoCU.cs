@@ -39,7 +39,7 @@ public class ServicioPagoCU : IServicioPagoCU
 		try
 		{
 			// Llamada al repositorio (ya debe incluir TipoGasto)
-			var pagos = await _repoPago.GetPagosPorUsuarioAsync(usuarioId);
+			var pagos = await _repoPago.ObtenerPorUsuarioAsync(usuarioId);
 
 			if (pagos == null || !pagos.Any())
 			{
@@ -53,7 +53,7 @@ public class ServicioPagoCU : IServicioPagoCU
 				Id = p.Id,
 				Monto = p.Monto,
 				Fecha = p.Fecha,
-				TipoGastoId = p.TipoGastoId,
+				TipoGastoNombre = p.TipoGasto.Nombre,
 			}).ToList();
 
 			return pagosDto;
@@ -129,7 +129,7 @@ public class ServicioPagoCU : IServicioPagoCU
 			Monto = pago.Monto,
 			Fecha = pago.Fecha,
 			UsuarioId = pago.UsuarioId,
-			TipoGastoId = pago.TipoGastoId,
+			TipoGastoNombre = tipo?.Nombre,
 
 		};
 	}
@@ -151,7 +151,7 @@ public class ServicioPagoCU : IServicioPagoCU
 				Monto = pago.Monto,
 				Fecha = pago.Fecha,
 				UsuarioId = pago.UsuarioId,
-				TipoGastoId = pago.TipoGastoId,
+				TipoGastoNombre = pago.TipoGasto.Nombre,
 				MetodoPago = pago.MetodoPago
 			};
 

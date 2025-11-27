@@ -30,16 +30,20 @@ namespace Obligatorio.AccesoDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Accion")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
-
-                    b.Property<DateTime>("Fecha")
+                    b.Property<DateTime>("FechaOperacion")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("NombreTipoGasto")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("TipoGastoId")
                         .HasColumnType("int");
+
+                    b.Property<string>("TipoOperacion")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<int>("UsuarioId")
                         .HasColumnType("int");

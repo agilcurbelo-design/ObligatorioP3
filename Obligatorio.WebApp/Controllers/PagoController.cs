@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Net.Http.Headers;
 using System.Text.Json;
+using WebApp.DTOs;
 
 namespace Obligatorio.WebApp2.Controllers
 {
@@ -18,7 +19,7 @@ namespace Obligatorio.WebApp2.Controllers
 		}
 
 		// Helper: Obtener token de la sesión
-		private string ObtenerToken() => HttpContext.Session.GetString("token");
+		private string ObtenerToken() => HttpContext.Session.GetString("Token");
 
 		// Helper: Configurar HttpClient con token
 		private HttpClient ObtenerClienteAutenticado()
@@ -38,41 +39,11 @@ namespace Obligatorio.WebApp2.Controllers
 		{
 			var token = ObtenerToken();
 			if (string.IsNullOrEmpty(token))
+			{
 				return RedirectToAction("Login", "Home");
-
-			try
-			{
-				var client = ObtenerClienteAutenticado();
-				var usuarioId = HttpContext.Session.GetInt32("usuarioId");
-
-				if (usuarioId == null)
-				{
-					ViewBag.Error = "No se encontró el usuario en sesión.";
-					return View(new List<PagoViewModel>());
-				}
-
-				// Llamada CORRECTA a la API que ya tenés: "pagos" plural
-				var response = await client.GetAsync($"pagos/usuario/{usuarioId}");
-
-				if (response.IsSuccessStatusCode)
-				{
-					var json = await response.Content.ReadAsStringAsync();
-					var pagos = JsonSerializer.Deserialize<List<PagoViewModel>>(json, _jsonOptions) ?? new List<PagoViewModel>();
-					return View(pagos);
-				}
-
-				if (response.StatusCode == System.Net.HttpStatusCode.Unauthorized)
-					return RedirectToAction("Login", "Home");
-
-				// devolver mensaje de error y lista vacía para la vista
-				ViewBag.Error = $"Error al obtener pagos: {(int)response.StatusCode} {response.ReasonPhrase}";
-				return View(new List<PagoViewModel>());
 			}
-			catch (Exception ex)
-			{
-				ViewBag.Error = $"Error interno: {ex.Message}";
-				return View(new List<PagoViewModel>());
-			}
+				return View("UsuarioConPago");
+			
 		}
 
 		// NOTA: El backend que mostraste expone GET api/pagos/usuario/{usuarioId}.
@@ -91,16 +62,97 @@ namespace Obligatorio.WebApp2.Controllers
 		{
 			return BadRequest("El endpoint POST api/pagos no está implementado en la API. Añadilo en el backend para habilitar la creación desde el frontend.");
 		}
-	}
 
-	// ViewModels para el MVC (puedes moverlos a Models si preferís)
-	public class PagoViewModel
-	{
-		public int Id { get; set; }
-		public decimal Monto { get; set; }
-		public DateTime Fecha { get; set; }
-		public string Descripcion { get; set; }
-		public string TipoGasto { get; set; }
-		public string Usuario { get; set; }
+
+		[HttpPost]
+		[ValidateAntiForgeryToken]
+		public async Task<IActionResult> BuscarUsuarioID(int usuarioId)
+		{
+			var token = ObtenerToken();
+			if (string.IsNullOrEmpty(token))
+				return RedirectToAction("Login", "Home");
+
+			try
+			{
+				var client = ObtenerClienteAutenticado();
+
+				// Llamada al endpoint de la API que devuelve los pagos del usuario
+				var response = await client.GetAsync($"api/pagos/usuario/{usuarioId}");
+
+				if (response.IsSuccessStatusCode)
+				{
+					var json = await response.Content.ReadAsStringAsync();
+					var pagos = JsonSerializer.Deserialize<List<PagoDTO>>(json, _jsonOptions) ?? new List<PagoDTO>();
+					return View("UsuarioConPago", pagos);
+				}
+
+				if (response.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+					return RedirectToAction("Login", "Home");
+
+				// En caso de error, mostrar mensaje y lista vacía
+				ViewBag.Error = $"Error al obtener pagos: {(int)response.StatusCode} {response.ReasonPhrase}";
+				return View("UsuarioConPago", new List<PagoDTO>());
+			}
+			catch (Exception ex)
+			{
+				ViewBag.Error = $"Error interno: {ex.Message}";
+				return View("UsuarioConPago", new List<PagoDTO>());
+			}
+		}
+		[HttpGet]
+		public IActionResult CrearPago()
+		{
+			// Muestra la vista vacía; no usamos ViewModel, la vista construye el DTO por nombres de campos
+			return View();
+		}
+
+		// POST: /Pago/CrearPago
+		[HttpPost]
+		[ValidateAntiForgeryToken]
+		public async Task<IActionResult> CrearPago([FromForm] CrearPagoDTO dto)
+		{
+			// Validación básica en servidor
+			if (dto == null) return BadRequest("Datos inválidos.");
+			if (!ModelState.IsValid) return View(dto); // si quieres mostrar errores en la vista, necesitarás adaptar la vista para mostrar ModelState
+
+			var token = ObtenerToken();
+			if (string.IsNullOrEmpty(token))
+				return RedirectToAction("Login", "Home");
+
+			try
+			{
+				var client = ObtenerClienteAutenticado();
+
+				// Serializar DTO exactamente como espera la API
+				var json = JsonSerializer.Serialize(dto, _jsonOptions);
+				var content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
+
+				var response = await client.PostAsync("api/pagos", content);
+
+				if (response.IsSuccessStatusCode)
+				{
+					// 201 Created: redirigir al listado o a detalle
+					// opcional: leer el pago creado
+					return RedirectToAction("Index");
+				}
+
+				if (response.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+					return RedirectToAction("Login", "Home");
+
+				// Leer mensaje de error devuelto por la API (si lo hay)
+				var errorText = await response.Content.ReadAsStringAsync();
+				ModelState.AddModelError(string.Empty, $"Error al crear pago: {(int)response.StatusCode} {response.ReasonPhrase} - {errorText}");
+				return View(dto);
+			}
+			catch (Exception ex)
+			{
+				ModelState.AddModelError(string.Empty, $"Error interno: {ex.Message}");
+				return View(dto);
+			}
+		}
+
+
+		// ViewModels para el MVC (puedes moverlos a Models si preferís)
+
 	}
 }

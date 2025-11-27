@@ -12,7 +12,7 @@ namespace Obligatorio.LogicaDeAplicacion.DTOs
 		public int Id { get; set; }
 		public decimal Monto { get; set; }
 		public DateTime Fecha { get; set; }
-		public int TipoGastoId { get; set; }
+		public string TipoGastoNombre { get; set; }
 		public int UsuarioId { get; set; }
 		public MetodoPago MetodoPago { get; set; }
 		public string Descripcion { get; set; }

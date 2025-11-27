@@ -72,6 +72,12 @@
                                     @Html.ActionLink("Alta de Usuario", "Create", "Usuario", null, new { @class = "nav-link" })
                                 </li>
                             }
+                            @if (rol == "Gerente" || rol == "Empleado")
+                            {
+                                <li class="nav-item">
+                                    @Html.ActionLink("Pago Por Uusario", "GetPagosPorUsuario", "Pago", null, new { @class = "nav-link" })
+                                </li>
+                            }
 
                             <li class="nav-item">
                                 @Html.ActionLink("Cerrar sesión", "Logout", "Login", null, new { @class = "nav-link" })

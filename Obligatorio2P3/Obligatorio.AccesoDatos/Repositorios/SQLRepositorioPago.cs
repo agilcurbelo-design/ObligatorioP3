@@ -74,14 +74,6 @@ namespace Obligatorio.AccesoDatos.Repositorios
 			throw new NotImplementedException();
 		}
 
-		public async Task<IEnumerable<Pago>> GetPagosPorUsuarioAsync(int usuarioId)
-		{
-			return await _context.Pagos
-				.Include(p => p.TipoGasto)
-				.Where(p => p.UsuarioId == usuarioId)
-				.OrderByDescending(p => p.Fecha)
-				.ToListAsync();
-		}
 
 		public void Remove(int id)
 		{

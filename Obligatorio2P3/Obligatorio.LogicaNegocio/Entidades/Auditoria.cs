@@ -7,16 +7,21 @@ using System.Threading.Tasks;
 namespace Obligatorio.LogicaNegocio.Entidades
 {
 
-	public class Auditoria
-	{
-		public int Id { get; set; }
+		public class Auditoria
+		{
+			public int Id { get; set; }
+			public DateTime FechaOperacion { get; set; }
+			public string TipoOperacion { get; set; } // "Alta", "Baja", "Modificacion"
 
-		public int TipoGastoId { get; set; }
-		public string Accion { get; set; } // "Alta", "Edición", "Baja"
-		public DateTime Fecha { get; set; }
+			// El nombre del tipo de gasto en el momento de la operación
+			// (Guardamos el nombre por si el original se borra)
+			public string NombreTipoGasto { get; set; }
+			public int TipoGastoId { get; set; }
 
-		public int UsuarioId { get; set; }
-		public Usuario Usuario { get; set; }
+			// Quién hizo la operación
+			public int UsuarioId { get; set; }
+			public virtual Usuario Usuario { get; set; }
+		}
 	}
 
-}
+

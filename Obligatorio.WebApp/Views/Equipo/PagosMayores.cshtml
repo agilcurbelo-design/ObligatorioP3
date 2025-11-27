@@ -1,0 +1,68 @@
+﻿@model WebApp.Models.PagosMayoresViewModel
+
+@{
+    ViewData["Title"] = "Equipos - Pagos únicos mayores";
+}
+
+<h2>Equipos con pagos únicos mayores a un monto</h2>
+
+<form asp-action="PagosMayores" method="post" class="mb-4">
+    @Html.AntiForgeryToken()
+
+    <div class="row g-2 align-items-end">
+        <div class="col-sm-3">
+            <label asp-for="Monto" class="form-label">Monto mínimo</label>
+            <input asp-for="Monto" class="form-control" type="number" step="0.01" />
+            <span asp-validation-for="Monto" class="text-danger"></span>
+        </div>
+
+        <div class="col-sm-2">
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </div>
+    </div>
+</form>
+
+@* Mostrar errores de validación *@
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var err in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <div>@err.ErrorMessage</div>
+        }
+    </div>
+}
+
+@if (Model?.Equipos == null || !Model.Equipos.Any())
+{
+    <div class="alert alert-info">No se encontraron equipos con pagos únicos mayores al monto indicado.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th style="width:80px">Id</th>
+                <th>Equipo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var equipo in Model.Equipos)
+            {
+                <tr>
+                    <td>@equipo.Id</td>
+                    <td>@equipo.Nombre</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<div class="mt-3">
+    <a class="btn btn-secondary" asp-action="PagosMayores">Nueva búsqueda</a>
+    <a class="btn btn-link" href="@Url.Action("Index", "Home")">Volver</a>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

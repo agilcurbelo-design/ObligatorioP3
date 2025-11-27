@@ -1,0 +1,70 @@
+﻿@using WebApp.Models
+@model PagosAuditoriaViewModel
+
+@{
+    ViewData["Title"] = "Auditoría";
+}
+
+<h2>Auditoría por tipo de gasto</h2>
+
+<form asp-action="Index" method="post" class="mb-4">
+    @Html.AntiForgeryToken()
+    <div class="col-md-4">
+        <label asp-for="TipoGastoId" class="form-label">Id del tipo de gasto</label>
+        <input asp-for="TipoGastoId" class="form-control" type="number" min="1" step="1" placeholder="Ingrese el id (ej. 1)" />
+        <span asp-validation-for="TipoGastoId" class="text-danger"></span>
+        <div class="form-text">Ingrese el identificador numérico del tipo de gasto para ver las operaciones.</div>
+    </div>
+
+
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-primary">Buscar</button>
+            <a class="btn btn-secondary ms-2" asp-action="Index">Limpiar</a>
+        </div>
+    </div>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var err in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <div>@err.ErrorMessage</div>
+        }
+    </div>
+}
+
+@if (Model.Auditorias == null || !Model.Auditorias.Any())
+{
+    <div class="alert alert-info">No se encontraron registros para el tipo de gasto seleccionado.</div>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="table-light">
+                <tr>
+                  
+                    <th style="width:180px">Fecha</th>
+                    <th style="width:140px">Operación</th>
+                    <th style="width:160px">Usuario</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var a in Model.Auditorias)
+                {
+                    <tr>
+            
+                        <td>@a.Fecha.ToString("yyyy-MM-dd HH:mm")</td>
+                        <td>@a.Operacion</td>
+                        <td>@a.NombreUsuario</td>
+                    
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,28 +1,22 @@
-﻿@model WebApp.Models.UsuarioConPagosViewModel
+﻿@model IEnumerable<WebApp.DTOs.PagoDTO>
 
 @{
-    ViewData["Title"] = "Detalle de usuario";
+    ViewData["Title"] = "UsuarioConPago";
 }
 
-<h2 class="mb-3">@Model.Usuario?.Nombre @Model.Usuario?.Apellido</h2>
-
-<div class="mb-4">
-    <dl class="row">
-        <dt class="col-sm-2 font-weight-bold">Email</dt>
-        <dd class="col-sm-10">@Model.Usuario?.Email</dd>
-
-        <dt class="col-sm-2 font-weight-bold">Rol</dt>
-        <dd class="col-sm-10">@Model.Usuario?.Rol</dd>
-
-        <dt class="col-sm-2 font-weight-bold">Equipo</dt>
-    </dl>
-</div>
-
-<hr />
 
 <h3>Pagos</h3>
+<form asp-action="BuscarUsuarioID" method="post" class="mb-3">
+    <div class="form-group">
+        <label for="usuarioId">Usuario Id</label>
+        <input id="usuarioId" name="usuarioId" type="number" class="form-control" />
+    </div>
 
-@if (Model.Pagos == null || !Model.Pagos.Any())
+
+
+    <button type="submit" class="btn btn-primary w-100">Ingresar</button>
+</form>
+@if (Model == null || !Model.Any())
 {
     <div class="alert alert-info">No hay pagos para este usuario.</div>
 }
@@ -38,34 +32,19 @@ else
             </tr>
         </thead>
         <tbody>
-            @foreach (var pago in Model.Pagos)
+            @foreach (var pago in Model)
             {
                 <tr>
                     <td>@pago.Id</td>
                     <td>@pago.Monto.ToString("C")</td>
                     <td>@pago.Fecha.ToString("yyyy-MM-dd")</td>
-                    <td>@pago.TipoGasto? "—"</td>
+                    <td>@pago.TipoGastoNombre</td>
                 </tr>
             }
         </tbody>
     </table>
 
-    <!-- Paginación simple -->
-    <nav aria-label="Paginación">
-        <ul class="pagination">
-            <li class="page-item @(Model.Page <= 1 ? "disabled" : "")">
-                <a class="page-link" href="@Url.Action("Detalle", "Usuario", new { id = Model.Usuario?.Id, page = Model.Page - 1, pageSize = Model.PageSize })">Anterior</a>
-            </li>
 
-            <li class="page-item disabled">
-                <span class="page-link">Página @Model.Page</span>
-            </li>
-
-            <li class="page-item">
-                <a class="page-link" href="@Url.Action("Detalle", "Usuario", new { id = Model.Usuario?.Id, page = Model.Page + 1, pageSize = Model.PageSize })">Siguiente</a>
-            </li>
-        </ul>
-    </nav>
 }
 
 <div class="mt-3">

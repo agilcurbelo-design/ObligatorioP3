@@ -39,12 +39,12 @@ namespace Obligatorio.AccesoDatos
 	       .HasForeignKey(p => p.UsuarioId)
 	       .OnDelete(DeleteBehavior.Restrict);
 
-			modelBuilder.Entity<Auditoria>(b =>
+		modelBuilder.Entity<Auditoria>(b =>
 			{
 				b.ToTable("Auditorias");
 				b.HasKey(a => a.Id);
-				b.Property(a => a.Accion).HasMaxLength(50).IsRequired();
-				b.Property(a => a.Fecha).IsRequired();
+				b.Property(a => a.TipoOperacion).HasMaxLength(50).IsRequired();
+				b.Property(a => a.FechaOperacion).IsRequired();
 				b.HasOne(a => a.Usuario).WithMany().HasForeignKey(a => a.UsuarioId).OnDelete(DeleteBehavior.Restrict);
 			}
 

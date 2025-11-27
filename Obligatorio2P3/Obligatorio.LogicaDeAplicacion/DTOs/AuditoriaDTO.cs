@@ -8,12 +8,10 @@ namespace Obligatorio.LogicaDeAplicacion.DTOs
 {
 	public class AuditoriaDTO
 	{
-		public int Id { get; set; }
-		public int TipoGastoId { get; set; }
-		public string Accion { get; set; } = string.Empty;
+		public int Id;
 		public DateTime Fecha { get; set; }
-		public int UsuarioId { get; set; }
-		public string? UsuarioNombre { get; set; }
-
+		public string Operacion { get; set; }
+		public string NombreUsuario { get; set; }
+		public string Detalle { get; set; }
 	}
 }
