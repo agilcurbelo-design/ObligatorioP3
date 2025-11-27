@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qMDN4vHIc10=",
+  "dgSpecHash": "kf33MrKMTTk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\agilc\\OneDrive\\Documentos\\Dev\\Ort\\ObligatorioP3\\Obligatorio.WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agilc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.22\\microsoft.aspnetcore.authentication.jwtbearer.8.0.22.nupkg.sha512",
     "C:\\Users\\agilc\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",

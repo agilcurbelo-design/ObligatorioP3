@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\models\\usuarioconpagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|solutionrelative:models\\usuarioconpagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\views\\pago\\usuarioconpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|solutionrelative:views\\pago\\usuarioconpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\models\\usuarioconpagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|solutionrelative:models\\usuarioconpagoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\dtos\\crearpagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|solutionrelative:dtos\\crearpagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\views\\pago\\usuarioconpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|solutionrelative:views\\pago\\usuarioconpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\agilc\\onedrive\\escritorio\\obligatorioentregafinal\\obligatorio.webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -134,15 +134,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "UsuarioConPago.cshtml",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Views\\Pago\\UsuarioConPago.cshtml",
               "RelativeDocumentMoniker": "Views\\Pago\\UsuarioConPago.cshtml",
               "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Views\\Pago\\UsuarioConPago.cshtml",
               "RelativeToolTip": "Views\\Pago\\UsuarioConPago.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T03:08:36.026Z"
+              "WhenOpened": "2025-11-27T03:08:36.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UsuarioConPagoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Models\\UsuarioConPagoViewModel.cs",
               "RelativeDocumentMoniker": "Models\\UsuarioConPagoViewModel.cs",
@@ -207,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CrearPago.cshtml",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Views\\Pago\\CrearPago.cshtml",
               "RelativeDocumentMoniker": "Views\\Pago\\CrearPago.cshtml",
@@ -303,12 +304,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-26T02:23:24.999Z",
@@ -340,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PagoController.cs",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Controllers\\PagoController.cs",
               "RelativeDocumentMoniker": "Controllers\\PagoController.cs",
@@ -352,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
@@ -364,12 +365,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ToolTip": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T00:37:29.132Z",
@@ -389,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsuarioDTO.cs",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\DTOs\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\UsuarioDTO.cs",
@@ -426,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CrearPagoDTO.cs",
               "DocumentMoniker": "C:\\Users\\agilc\\OneDrive\\Escritorio\\ObligatorioEntregaFinal\\Obligatorio.WebApp\\DTOs\\CrearPagoDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\CrearPagoDTO.cs",
